@@ -43,4 +43,3 @@ A 2D endless runner game built with p5.js, inspired by Chrome's Dino game. Contr
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-*Note*: For local text editor use with `#` as bold, replace `**` with `#` (e.g., `#Jump# instead of **Jump**), but this will render as headings on GitHub. Use this file as-is for GitHub compatibility.
